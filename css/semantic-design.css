@@ -1,4 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
+h1, h2, h3 {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.navigation {
+    max-width: 100ch;
+    margin: 0 auto;
+}
+
+header {
+    max-width: 100ch;
+    margin: 0 auto;
+}
+
+.short-intro {
+    max-width: 100ch;
+    margin: auto;
+}
+
+.early-life {
+    max-width: 100ch;
+    margin: auto;
+}
+
+.college-career {
+    max-width: 100ch;
+    margin: auto;
+}
+
+.professional-career {
+    max-width: 100ch;
+    margin: auto;
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    line-height: 1.7em;
+    margin-bottom: 1.9em;
+    font-size: 1em;
+}
 
 .sr-only {
     border: 0;
@@ -11,4 +54,4 @@
     white-space: nowrap;
     width: 1px;
   
-}
+  }
